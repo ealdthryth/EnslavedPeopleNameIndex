@@ -1,2 +1,2 @@
-# SlaveNameIndex
-Web interface to search Slave Name Index 
+# EnslavedPeopleNameIndex
+Web interface to search Enslaved People Name Index 
